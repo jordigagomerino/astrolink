@@ -1,6 +1,6 @@
-# Astrolink App (astrolinkapp)
+# Astrolink - Stellar browser wallet
+Astrolink is a browser wallet that allows you to use your Stellar assets and interact with Stellar apps.
 
-Descripction
 
 ## Install the dependencies
 ```bash
@@ -19,9 +19,6 @@ yarn run lint
 
 ### Build the app for production
 ```bash
-quasar build
+quasar build -m bex
 ```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
-Random from https://api.adorable.io/avatars/203/random.png
