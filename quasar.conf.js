@@ -23,7 +23,6 @@ module.exports = function (ctx) {
       'i18n',
       'axios',
       'vuelidate',
-      'db',
       'cryptoicon'
     ],
 
@@ -129,7 +128,7 @@ cfg.module.rules.push({
       manifest: {
         name: `Astrolink App`,
         short_name: `Astrolink App`,
-        description: `Descripction`,
+        description: `Astrolink App`,
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',

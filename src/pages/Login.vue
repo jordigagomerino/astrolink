@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex justify-start items-center column q-pt-xl">
-    <img src="~/assets/astrolink-logo-full.svg" class="q-ma-lg" width="150px" />
+    <img src="~/assets/astrolink-logo-full-45.svg" class="q-ma-lg" width="150px" />
     <h2 class="text-h3 text-weight-light" style="margin: 0px">{{$t('new_to')}}</h2>
     <div class="flex row justify-center items-center q-ma-lg">
       <q-card flat bordered style="width: 388px; height: 278px;" class=" flex justify-center items-center column">

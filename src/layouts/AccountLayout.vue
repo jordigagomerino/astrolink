@@ -7,7 +7,7 @@
 
         <q-toolbar-title>
           <q-avatar>
-            <img src="~/assets/astrolink-logo-full.svg">
+            <img src="~/assets/astrolink-logo-full-45.svg">
           </q-avatar>
           Astrolink
         </q-toolbar-title>

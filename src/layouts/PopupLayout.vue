@@ -3,7 +3,7 @@
     <q-header elevated class="bg-white text-black">
       <q-toolbar>
         <q-avatar>
-          <img src="~/assets/astrolink-logo-full.svg" />
+          <img src="~/assets/astrolink-logo-full-45.svg" />
         </q-avatar>
         <q-space />
         <q-btn-dropdown color="primary" flat :label="accountSelected.name">
